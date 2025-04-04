@@ -2,8 +2,6 @@
 
 Welcome to my personal DevOps & Cloud Engineering portfolio built using simple HTML/CSS. This project highlights my skills, experience, and projects in the field of automation, infrastructure as code, and cloud-native technologies.
 
-![Profile Picture](piyush-profile.png)
-
 ---
 
 ## 👨‍💻 About Me
@@ -19,7 +17,8 @@ I am a passionate DevOps and Cloud engineer skilled in automating infrastructure
 - Hands-on experience with CI/CD pipelines and GitOps
 - Worked on EKS, Jenkins, ArgoCD, Istio, Prometheus, Grafana, and more
 - Deployed and monitored containerized applications using DevOps best practices
-
+- Automated infrastructure provisioning using Terraform and Ansible
+- Built and managed Docker containers and orchestrated deployments using Kubernetes
 ---
 
 ## 🛠️ Skills
@@ -30,7 +29,7 @@ I am a passionate DevOps and Cloud engineer skilled in automating infrastructure
 - **Containers & Orchestration:** Docker, Podman, Kubernetes (EKS, Minikube)
 - **CI/CD:** Jenkins, GitHub Actions, ArgoCD
 - **Automation:** Ansible, Helm
-- **Monitoring:** Prometheus, Grafana, Kiali, Trivy
+- **Monitoring:** Prometheus, Grafana, Kiali, 
 
 ---
 
