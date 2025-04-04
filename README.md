@@ -1,12 +1,63 @@
-<h1 align="center">Hi 👋, I'm Piyush Bankhede</h1>
-<h3 align="center">A passionate Devops Engineer from India</h3>
+# 💼 Piyush Bankhede - DevOps Portfolio
 
-- 📫 How to reach me **bankhedepiyush25@gmail.com**
+Welcome to my personal DevOps & Cloud Engineering portfolio built using simple HTML/CSS. This project highlights my skills, experience, and projects in the field of automation, infrastructure as code, and cloud-native technologies.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/piyush-bankhede/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/piyush-bankhede/" height="30" width="40" /></a>
-</p>
+![Profile Picture](piyush-profile.png)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 👨‍💻 About Me
+
+I am a passionate DevOps and Cloud engineer skilled in automating infrastructure and application deployments using modern tools like Docker, Kubernetes, Jenkins, and Terraform. I love solving real-world problems through automation, scalability, and cloud-native architectures.
+
+---
+
+## 💼 Experience
+
+### 🔹 Technical Intern - Linux World Pvt Limited
+
+- Hands-on experience with CI/CD pipelines and GitOps
+- Worked on EKS, Jenkins, ArgoCD, Istio, Prometheus, Grafana, and more
+- Deployed and monitored containerized applications using DevOps best practices
+
+---
+
+## 🛠️ Skills
+
+- **Linux** (Ubuntu, RedHat)
+- **AWS** (EC2, S3, RDS, VPC, ELB, IAM, CloudWatch)
+- **IaC Tools:** Terraform, CloudFormation
+- **Containers & Orchestration:** Docker, Podman, Kubernetes (EKS, Minikube)
+- **CI/CD:** Jenkins, GitHub Actions, ArgoCD
+- **Automation:** Ansible, Helm
+- **Monitoring:** Prometheus, Grafana, Kiali, Trivy
+
+---
+
+## 🚀 Projects
+
+### 📦 CI/CD with AWS, Jenkins, Terraform, Kubernetes
+
+> Developed a CI/CD pipeline using Jenkins for building and deploying Docker containers to a Kubernetes cluster provisioned using Terraform on AWS. Integrated monitoring with Prometheus and Grafana.
+
+🔗 [View Project on GitHub](https://github.com/Piyushbankhede/DevOps-project)
+
+---
+
+## 📬 Contact
+
+- 📧 Email: [bankhedepiyush25@gmail.com](mailto:bankhedepiyush25@gmail.com)
+- 📱 Phone: [+91 9630817308](tel:+919630817308)
+- 🐙 GitHub: [Piyushbankhede](https://github.com/Piyushbankhede)
+- 💼 LinkedIn: [Piyush Bankhede](https://www.linkedin.com/in/piyush-bankhede/)
+
+---
+
+## 📄 Resume
+
+Download: [Piyushresume.pdf](./Piyushresume.pdf)
+
+---
+
+
+
